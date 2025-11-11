@@ -21,7 +21,7 @@ const portfolioData = {
             id: 1,
             title: "Racha Style",
             description: "Site e-commerce de produtos colecionáveis de automóveis",
-            image: "https://images.unsplash.com/photo-1693159682660-c125e71844d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjcmVhdGl2ZSUyMHdvcmtzcGFjZSUyMGRlc2t8ZW58MXx8fHwxNzYyNzA0MzcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+            image: "logo.png",
             tags: ["HTML", "CSS", "Figma"],
             url: "https://hypperlegacy.github.io/Racha_Style/"
         },
